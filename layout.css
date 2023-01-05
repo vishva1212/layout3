@@ -1,0 +1,358 @@
+
+
+            /*------------header-------------*/
+.header{
+	background-color:orange;
+	height:100px;
+
+}
+
+.hed-con{
+	background-color:red;
+	height:70px;
+}
+.hed-list{
+	background-color:red;
+	height:70px;
+}
+.hed-btn{
+	background-color:red;
+	height:70px;
+}
+
+			 /*------------header end-------------*/
+			 
+			 
+			  /*------------bg-img start-------------*/
+			  
+	.bg-img{
+	background-color:yellow;
+	height:500px;
+}
+
+.bg-content{
+	background-color:black;
+	height:300px;
+}
+
+				 /*------------bg-img end-------------*/
+				 
+				 
+				 
+				  /*------------icon-list start-------------*/
+				  
+		
+	.icon{
+	background-color:orange;
+	height:150px;
+}	  
+.icon-list{
+	background-color:white;
+	height:80px;
+
+}	  
+				  
+				  
+				  
+				  
+				   /*------------icon-list end-------------*/
+				   
+				   
+				   /*------------about start-------------*/
+				   .about{
+					   position:relative;
+					   padding:50px 0;
+					  
+				   }
+				   .about:after{
+					   content:"";
+					   position:absolute;
+					   height:100%;
+					   width:100%;
+					   left:0;
+					   top:0;
+					   background:black;
+					   transform:skewY(-3deg);
+					   z-index:-1;
+				   }
+				   .about-itm{
+					   
+					   height:400px;
+					   background-color:red;
+					   
+				   }
+				   .about-icon{
+					   background-color:white;
+					   height:180px;
+				   }
+				  
+				   
+				   
+				   /*------------anout end------------*/
+				   
+				   
+				   /*----number start--------------*/
+				   .number{
+					   background-color:red;
+					   padding:50px 0;
+				   }
+				   .num-icon{
+					   height:150px;
+					   background-color:white;
+				   }
+				   
+				   
+				    /*----number end--------------*/
+					
+					
+					/*----modi start--------------*/
+				   .modi{
+					   background-color:black;
+					   padding:50px 0;
+				   }
+				   .modi-icon{
+					   height:150px;
+					   background-color:white;
+				   }
+				   
+				   .modi-content{
+					   height:300px;
+					   background-color:white;
+				   }
+				   
+				   
+				    /*----modi end--------------*/
+					
+					
+					/*----services start--------------*/
+				   .services{
+					   position:relative;
+					   height:800px;
+					   padding:50px 0;
+				   }
+				   .services:after{
+					   content:"";
+					   position:absolute;
+					   height:100%;
+					   width:100%;
+					   left:0;
+					   top:0;
+					   background-color:orange;
+					   transform:skewY(-3deg);
+					   z-index:-1;
+				   }
+				   .sec-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .sec-icon{
+					   height:150px;
+					   background-color:black;
+				   }
+				   
+				   
+				    /*----services end--------------*/
+					
+					
+					
+					/*----portfolio start--------------*/
+				   .portfolio{
+					   background-color:green;
+				
+					   padding:50px 0;
+				   }
+				   .port-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .port-img{
+					   height:200px;
+					   background-color:black;
+				   }
+				   
+				   
+				    /*----portfolio end--------------*/	
+					
+					
+					
+					
+					/*---TESTIMONIALS start--------------*/
+				   .TESTIMONIALS{
+					   background-color:yellow;
+					   
+					   padding:50px 0;
+				   }
+				   .test-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .test-img{
+					   height:300px;
+					   background-color:black;
+				   }
+				   
+				   
+				    /*----TESTIMONIALS end--------------*/	
+					
+					
+						/*---pricing start--------------*/
+				   .pricing{
+					   position:relative;
+					   
+					   padding:50px 0;
+				   }
+				   
+				   .pricing:after{
+					   content:"";
+					   position:absolute;
+					   height:100%;
+					   width:100%;
+					   left:0;
+					   top:0;
+					   background-color:orange;
+					   transform:skewY(-3deg);
+					   z-index:-1;
+				   }
+				   .pric-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .pric-img{
+					   height:400px;
+					   background-color:black;
+				   }
+				   
+				   
+				    /*----TESTIMONIALS end--------------*/	
+					
+					
+					
+						/*---qustion start--------------*/
+				   .qustion{
+					   background-color:black;
+					   height:600px;
+					   padding:50px 0;
+				   }
+				   .qust-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .qust-con{
+					   height:50px;
+					   background-color:orange;
+				   }
+				   
+				   
+				    /*----qustion end--------------*/	
+					
+					
+					/*---team start--------------*/
+				   .team{
+					 position:relative;
+					   
+					   padding:50px 0;
+				   }
+				   
+				   .team:after{
+					   content:"";
+					   position:absolute;
+					   height:100%;
+					   width:100%;
+					   left:0;
+					   top:0;
+					   background-color:blue;
+					   transform:skewY(-3deg);
+					   z-index:-1;
+				   }
+				   .team-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .team-img{
+					   height:350px;
+					   background-color:black;
+				   }
+				   
+				   
+				    /*----team end--------------*/	
+					
+					
+					/*---contact start--------------*/
+				   .contact{
+					   background-color:red;
+					   
+					   padding:50px 0;
+				   }
+				   .cont-title{
+					   
+					   height:100px;
+					   background-color:white;
+				   }
+				   
+				   .address{
+					   height:200px;
+					   background-color:black;
+				   }
+				   
+				   .address-1{
+					   height:50px;
+					   background-color:black;
+				   }
+				   
+				   .address-2{
+					   height:150px;
+					   background-color:black;
+				   }
+				   
+				   .address-3{
+					   height:50px;
+					   background-color:black;
+				   }
+				   
+				   
+				    /*----contact end--------------*/	
+					
+					
+					/*---Presento start--------------*/
+				   .Presento{
+					   background-color:black;
+					   height:400px;
+					   
+				   }
+				   
+				   
+				   .pres-list{
+					   height:300px;
+					   background-color:orange;
+				   }
+				   
+				   
+				    /*----Presento end--------------*/	
+					
+					/*---Presento start--------------*/
+				   .end{
+					   background-color:red;
+					   height:150px;
+					   
+				   }
+				   
+				   
+				   .end-list{
+					   height:100px;
+					   background-color:orange;
+				   }
+				   
+				   
+				    /*----Presento end--------------*/	
